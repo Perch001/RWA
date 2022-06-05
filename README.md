@@ -1,4 +1,4 @@
-#RWA (React Weather App).
+# RWA (React Weather App)
 
 
 
