@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    margin:100px;
+}
+
+
+input{
+    margin-left: 25px;
+    font-size: 28px;
+    border: none;
+    
+}
+input:focus{
+    outline: none;
+    border-bottom: 1px solid #000;
+}
+
+
+.btn-search{
+    margin-left: 5px;
+    font-size: 26px;
+    border: none;
+    background: none;
+}
+.btn-search:hover{
+    cursor: pointer;
+}
+
+.enter{
+    font-family: Urbanist;
+    font-size: 10px;
+}
+
+.more{
+    font-family: Urbanist;
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 120px;
+    font-size: 62px;
+    opacity: 50%;
+
+}
