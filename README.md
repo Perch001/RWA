@@ -1,6 +1,6 @@
 # RWA (React Weather App)
 
-I use from API: https://openweathermap.org/
+API: https://openweathermap.org/
 
 
 # Getting Started with Create React App
